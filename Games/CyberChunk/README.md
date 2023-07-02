@@ -1,15 +1,35 @@
-## Cyberpunk Seahorse Game
+# **Game_Name** 
+Cyber Chunk 
+---
 
-Thank you Frank from Frank's Laboratory for this awesome course! I have learned a lot from you and have a lot of points to refactor.
+<br>
 
-Link: https://www.youtube.com/watch?v=7BHs1BzA4fs
+## **Description 📃**
+<!-- add your game description here  -->
+Cyber Chunk game is a based on a seahorse which we can used visit the world inside the water. 
+- 
 
-The project structure was refactored to BEM.
+## **functionalities 🎮**
+<!-- add functionalities over here -->
+This web game stores progress on your local device so whenever you want to play this game it will not start from the beginning. 
+Our aim is to kill the Fish Monster by a friendly bullet which comes from teh seahorse mouth. 
+Game includes score.
 
-Controls:
-⬆️ - go up,
-⬇️ - go down,
-󠀠"space" - fire,
-"D" - enter debug mode.
+  
+- 
+<br>
 
-![image](https://user-images.githubusercontent.com/92729800/204914433-211b768c-1a43-4142-a266-2078248990f1.png)
+## **How to play? 🕹️**
+<!-- add the steps how to play games -->
+You have to use your (arrow key) to play the game    
+
+<br>
+
+## **Screenshots 📸**
+
+<br>
+<!-- add your screenshots like this -->
+
+![image](../../assets/images/seahorse.png)
+
+<br>
